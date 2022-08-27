@@ -1,0 +1,135 @@
+2022-08-26 16:24:16,523 [main] INFO Tide - Url is open
+2022-08-26 16:24:16,736 [main] INFO Tide - click on learn
+2022-08-26 16:24:19,189 [main] INFO Tide - close the driver
+2022-08-26 16:41:47,709 [main] INFO Tide - Url is open
+2022-08-26 16:41:48,166 [main] INFO Tide - click on contact
+2022-08-26 16:41:50,518 [main] INFO Tide - close the driver
+2022-08-26 16:44:31,151 [main] INFO Tide - Url is open
+2022-08-26 16:44:31,218 [main] INFO Tide - click on location
+2022-08-26 16:44:33,744 [main] INFO Tide - language changed
+2022-08-26 16:44:36,636 [main] INFO Tide - close the driver
+2022-08-26 16:44:41,212 [main] INFO Tide - Url is open
+2022-08-26 16:44:41,430 [main] INFO Tide - click on whatsnew
+2022-08-26 16:44:43,785 [main] INFO Tide - close the driver
+2022-08-26 16:44:49,428 [main] INFO Tide - Url is open
+2022-08-26 16:44:51,779 [main] INFO Tide - open p&g branda
+2022-08-26 16:44:51,932 [main] INFO Tide - close the driver
+2022-08-26 16:44:56,213 [main] INFO Tide - Url is open
+2022-08-26 16:44:56,446 [main] INFO Tide - click on pac
+2022-08-26 16:45:00,995 [main] INFO Tide - close the driver
+2022-08-26 16:45:07,088 [main] INFO Tide - Url is open
+2022-08-26 16:45:07,544 [main] INFO Tide - click on contact
+2022-08-26 16:45:09,741 [main] INFO Tide - close the driver
+2022-08-26 16:45:14,289 [main] INFO Tide - Url is open
+2022-08-26 16:45:14,499 [main] INFO Tide - click on learn
+2022-08-26 16:45:16,929 [main] INFO Tide - close the driver
+2022-08-26 16:45:30,358 [main] INFO Tide - Url is open
+2022-08-26 16:45:30,501 [main] INFO Tide - click on livechat
+2022-08-26 16:45:32,937 [main] INFO Tide - close the driver
+2022-08-26 16:45:43,024 [main] INFO Tide - Url is open
+2022-08-26 16:45:44,441 [main] INFO Tide - click on search
+2022-08-26 16:45:44,590 [main] INFO Tide - captured
+2022-08-26 16:45:46,766 [main] INFO Tide - close the driver
+2022-08-26 16:45:51,456 [main] INFO Tide - Url is open
+2022-08-26 16:45:56,125 [main] INFO Tide - click on image
+2022-08-26 16:45:56,263 [main] INFO Tide - Test case passed successfully
+2022-08-26 16:45:58,425 [main] INFO Tide - close the driver
+2022-08-26 16:46:44,923 [main] INFO Tide - Url is open
+2022-08-26 16:46:44,990 [main] INFO Tide - click on location
+2022-08-26 16:46:47,727 [main] INFO Tide - language changed
+2022-08-26 16:46:50,985 [main] INFO Tide - close the driver
+2022-08-26 16:46:55,633 [main] INFO Tide - Url is open
+2022-08-26 16:46:55,850 [main] INFO Tide - click on whatsnew
+2022-08-26 16:46:58,261 [main] INFO Tide - close the driver
+2022-08-26 16:47:03,680 [main] INFO Tide - Url is open
+2022-08-26 16:47:06,013 [main] INFO Tide - open p&g branda
+2022-08-26 16:47:06,165 [main] INFO Tide - close the driver
+2022-08-26 16:47:13,476 [main] INFO Tide - Url is open
+2022-08-26 16:47:13,681 [main] INFO Tide - click on pac
+2022-08-26 16:47:16,213 [main] INFO Tide - close the driver
+2022-08-26 16:47:20,855 [main] INFO Tide - Url is open
+2022-08-26 16:47:23,173 [main] INFO Tide - open terms and condition
+2022-08-26 16:47:23,296 [main] INFO Tide - close the driver
+2022-08-26 16:47:28,950 [main] INFO Tide - Url is open
+2022-08-26 16:47:29,418 [main] INFO Tide - click on contact
+2022-08-26 16:47:31,564 [main] INFO Tide - close the driver
+2022-08-26 16:47:36,439 [main] INFO Tide - Url is open
+2022-08-26 16:47:36,646 [main] INFO Tide - click on learn
+2022-08-26 16:47:40,044 [main] INFO Tide - close the driver
+2022-08-26 16:47:45,824 [main] INFO Tide - Url is open
+2022-08-26 16:47:45,992 [main] INFO Tide - click on livechat
+2022-08-26 16:47:48,467 [main] INFO Tide - close the driver
+2022-08-26 16:47:53,061 [main] INFO Tide - Url is open
+2022-08-26 16:47:55,421 [main] INFO Tide - click on search
+2022-08-26 16:47:55,566 [main] INFO Tide - captured
+2022-08-26 16:47:57,738 [main] INFO Tide - close the driver
+2022-08-26 16:48:03,380 [main] INFO Tide - Url is open
+2022-08-26 16:48:08,121 [main] INFO Tide - click on image
+2022-08-26 16:48:08,739 [main] INFO Tide - Test case passed successfully
+2022-08-26 16:48:11,009 [main] INFO Tide - close the driver
+2022-08-26 18:59:07,894 [main] INFO Tide - Url is open
+2022-08-26 18:59:07,969 [main] INFO Tide - click on location
+2022-08-26 18:59:12,430 [main] INFO Tide - language changed
+2022-08-26 18:59:15,083 [main] INFO Tide - close the driver
+2022-08-26 18:59:25,823 [main] INFO Tide - Url is open
+2022-08-26 18:59:26,019 [main] INFO Tide - click on whatsnew
+2022-08-26 18:59:28,439 [main] INFO Tide - close the driver
+2022-08-26 18:59:33,899 [main] INFO Tide - Url is open
+2022-08-26 18:59:36,237 [main] INFO Tide - open p&g branda
+2022-08-26 18:59:36,594 [main] INFO Tide - close the driver
+2022-08-26 18:59:41,018 [main] INFO Tide - Url is open
+2022-08-26 18:59:41,227 [main] INFO Tide - click on pac
+2022-08-26 18:59:45,005 [main] INFO Tide - close the driver
+2022-08-26 18:59:50,695 [main] INFO Tide - Url is open
+2022-08-26 18:59:53,044 [main] INFO Tide - open terms and condition
+2022-08-26 18:59:53,196 [main] INFO Tide - close the driver
+2022-08-26 19:00:00,540 [main] INFO Tide - Url is open
+2022-08-26 19:00:00,988 [main] INFO Tide - click on contact
+2022-08-26 19:00:03,129 [main] INFO Tide - close the driver
+2022-08-26 19:00:09,463 [main] INFO Tide - Url is open
+2022-08-26 19:00:09,664 [main] INFO Tide - click on learn
+2022-08-26 19:00:12,068 [main] INFO Tide - close the driver
+2022-08-26 19:00:18,611 [main] INFO Tide - Url is open
+2022-08-26 19:00:18,797 [main] INFO Tide - click on livechat
+2022-08-26 19:00:21,187 [main] INFO Tide - close the driver
+2022-08-26 19:00:28,876 [main] INFO Tide - Url is open
+2022-08-26 19:00:29,457 [main] INFO Tide - click on search
+2022-08-26 19:00:29,664 [main] INFO Tide - captured
+2022-08-26 19:00:31,809 [main] INFO Tide - close the driver
+2022-08-26 19:00:38,359 [main] INFO Tide - Url is open
+2022-08-26 19:00:44,367 [main] INFO Tide - click on image
+2022-08-26 19:00:45,005 [main] INFO Tide - Test case passed successfully
+2022-08-26 19:00:47,150 [main] INFO Tide - close the driver
+2022-08-26 20:17:14,121 [main] INFO Tide - Url is open
+2022-08-26 20:17:14,184 [main] INFO Tide - click on location
+2022-08-26 20:17:21,102 [main] INFO Tide - language changed
+2022-08-26 20:17:23,928 [main] INFO Tide - close the driver
+2022-08-26 20:17:30,377 [main] INFO Tide - Url is open
+2022-08-26 20:17:30,608 [main] INFO Tide - click on whatsnew
+2022-08-26 20:17:33,071 [main] INFO Tide - close the driver
+2022-08-26 20:17:40,567 [main] INFO Tide - Url is open
+2022-08-26 20:17:42,892 [main] INFO Tide - open p&g branda
+2022-08-26 20:17:43,047 [main] INFO Tide - close the driver
+2022-08-26 20:17:52,616 [main] INFO Tide - Url is open
+2022-08-26 20:17:52,809 [main] INFO Tide - click on pac
+2022-08-26 20:17:55,349 [main] INFO Tide - close the driver
+2022-08-26 20:18:06,077 [main] INFO Tide - Url is open
+2022-08-26 20:18:08,406 [main] INFO Tide - open terms and condition
+2022-08-26 20:18:08,574 [main] INFO Tide - close the driver
+2022-08-26 20:18:16,441 [main] INFO Tide - Url is open
+2022-08-26 20:18:16,978 [main] INFO Tide - click on contact
+2022-08-26 20:18:19,142 [main] INFO Tide - close the driver
+2022-08-26 20:18:33,807 [main] INFO Tide - Url is open
+2022-08-26 20:18:34,006 [main] INFO Tide - click on learn
+2022-08-26 20:18:36,457 [main] INFO Tide - close the driver
+2022-08-26 20:18:46,777 [main] INFO Tide - Url is open
+2022-08-26 20:18:46,926 [main] INFO Tide - click on livechat
+2022-08-26 20:18:49,345 [main] INFO Tide - close the driver
+2022-08-26 20:18:56,739 [main] INFO Tide - Url is open
+2022-08-26 20:18:58,157 [main] INFO Tide - click on search
+2022-08-26 20:18:58,318 [main] INFO Tide - captured
+2022-08-26 20:19:00,500 [main] INFO Tide - close the driver
+2022-08-26 20:19:07,234 [main] INFO Tide - Url is open
+2022-08-26 20:19:14,775 [main] INFO Tide - click on image
+2022-08-26 20:19:15,726 [main] INFO Tide - Test case passed successfully
+2022-08-26 20:19:17,890 [main] INFO Tide - close the driver
